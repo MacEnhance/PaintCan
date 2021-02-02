@@ -11,7 +11,8 @@
 # Directions :
 
 1. Copy `Aqua.car` and `DarkAqua.car` from 
-```/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/
+```sh
+/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/
 to 
 /Library/Application Support/MacEnhance/Plugins/PaintCan.bundle/Contents/Resources/
 ```
@@ -23,7 +24,7 @@ to
 # Installation:
 
 1. Download and open [MacForge](https://github.com/w0lfschild/app_updates/raw/master/MacForge1/MacForge.zip)
-2. Install [PaintCan](https://www.macenhance.com/mflink?com.macenhance.paintcan)
+2. Install [PaintCan](https://www.macenhance.com/mflink?com.macenhance.paintcan) 
 
 # License:
 

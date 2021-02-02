@@ -18,7 +18,7 @@ to
 ```
 2. Change the file names to  `NSAppearanceNameAqua.paintcan.car` and `NSAppearanceNameDarkAqua.paintcan.car`
 3. Modify the `.car` files to your liking
-4. Restart and app to see changes applied
+4. Restart any app to see changes applied (log out and back in to apply changes to all apps)
 5. When an app opens or the system change from light to dark mode it will load your custom appearance if it exists
 
 # Installation:

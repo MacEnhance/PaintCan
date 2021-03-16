@@ -4,12 +4,12 @@
 
 # Information:
 
-- About         : PaintCan is a MacForge Plugin that lets you apply custom car files on the without rebooting. This plugin is based on the original parasite extension FreshPaint. Now using `NSAppearance` instead of `CUIThemeFacet`.
-- System        : macOS 10.14+
-- FreshPaint    : [alexzielenski](https://github.com/alexzielenski)[FreshPaint](https://github.com/ParasiteTeam/extensions/tree/master/FreshPaint)
-- PaintCan      : [w0lfschild](https://github.com/w0lfschild)[MacEnhance](https://github.com/MacEnhance)
-- Other Info    : [ZKSwizzle](https://github.com/alexzielenski/ZKSwizzle)
-- Extra         : If you do make some changes, feel free to make a pull request and help make things more awesome!
+- `About         :` PaintCan is a MacForge Plugin that lets you apply custom car files on the without rebooting. This plugin is based on the original parasite extension FreshPaint. Now using `NSAppearance` instead of `CUIThemeFacet`.
+- `System        :` macOS 10.14+
+- `FreshPaint    :` [alexzielenski](https://github.com/alexzielenski) ([FreshPaint](https://github.com/ParasiteTeam/extensions/tree/master/FreshPaint))
+- `PaintCan      :` [w0lfschild](https://github.com/w0lfschild) ([MacEnhance](https://github.com/MacEnhance))
+- `Other Info    :` [ZKSwizzle](https://github.com/alexzielenski/ZKSwizzle)
+- `Extra         :` If you do make some changes, feel free to make a pull request and help make things more awesome!
 
 # Directions :
 
